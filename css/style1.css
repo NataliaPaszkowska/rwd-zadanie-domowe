@@ -1,0 +1,10 @@
+* {box-sizing: border-box;
+}
+
+#main-header {
+    background-image: url(man-1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    position: relative;
+}
