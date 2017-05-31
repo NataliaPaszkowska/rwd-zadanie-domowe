@@ -1,6 +1,3 @@
-* {box-sizing: border-box;
-}
-
 body {
     height: 100%;
     color: #fff;
@@ -31,3 +28,9 @@ body {
     font-size: 2em;
     font-weight: 700;
 }
+
+/*@media (min-width: 1170px) {
+    
+    #main-header .header-caption .child {
+        background-image: none;
+    }*/
