@@ -16,7 +16,7 @@
     .header-caption {
         position: absolute;
         top: 10%;
-        left: 50%;
+        left: 60%;
     }
     
     #main-header .header-caption h1 {
@@ -47,7 +47,7 @@
         position: absolute;
         font-family: Verdana, sans-serif;
         font-size: 1em;
-        font-weight: 600;
+        font-weight: 700;
         text-align: center;
         top: 350px;
         left: 30%;
